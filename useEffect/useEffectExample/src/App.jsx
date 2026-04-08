@@ -1,5 +1,6 @@
 // 1. Importamos los Hooks a usar
 import { useState , useEffect } from 'react'
+import { Timer } from './timer'
 
 import './App.css'
 
@@ -34,6 +35,9 @@ function App() {
     <>
       {/* <button className="btn" onClick={updateCount}>Hola {count}</button> */}
       <h2>última tecla oprimida: {tecla}</h2>
+   
+      <Timer/>
+
     </>
   )
 }
