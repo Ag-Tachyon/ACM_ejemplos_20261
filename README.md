@@ -10,3 +10,6 @@ El proyecto trata de Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pe
 > * **Solicitamos** el certificado físico
 > * **Necesitamos** el crédito de la materia
 > * **Tercera vez** viendo la materia 
+
+> [!NOTE]
+> * En caso de no pertenecer o tener algunos de los datos de la sección "Important", pueden borrar el item. Por ejemplo, si no tengo necesidad de decir que estoy viendo por # vez el curso, pueden borrarlo y dejar los otros dos items.
